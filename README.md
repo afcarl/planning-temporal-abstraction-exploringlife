@@ -1,9 +1,9 @@
 # Planning-Temporal-Abstraction-exploringlife
 
 
-* Name : Shruti Bhanderi *
+#### Name: Shruti Bhanderi
 
-* McGill ID: 260724575 *
+#### McGill ID: 260724575 
 
 Description
 ---------
